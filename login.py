@@ -1,1 +1,1 @@
-print("login v2as")
+print("login v2")
